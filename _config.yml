@@ -1,0 +1,10 @@
+title: "Mon Portfolio"
+description: "CV en ligne, projets et expériences de [Votre Nom]"
+author:
+  name: "[Votre Nom]"
+  email: "votre.email@example.com"
+  url: "https://votre-nom.github.io"
+theme: minimal-mistakes # Ou un autre thème choisi
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
